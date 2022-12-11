@@ -19,3 +19,16 @@
 ### Resutados
 
 ![Alt text](./passwd.png "Optional title")
+
+
+
+usuario metasploit:msfadmin
+senha metasploit: msfadmin
+
+link para baixar o metasploit
+https://sourceforge.net/projects/metasploitable/
+
+passos:
+criei uma maquina virtual sem iso
+vai em configuração da maquina criada > armazenamento> exclui tudo e so deixa o vazio > clica em controladora SATA
+adicionar novo HD Escolho o metasploit que ta desconpactado e roda 
