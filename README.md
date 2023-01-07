@@ -19,4 +19,3 @@
 
 ### Resutados
 
-https://github.com/cassiano-dio/cibersecurity-desafio-phishing/issues/9#issue-1523521464
