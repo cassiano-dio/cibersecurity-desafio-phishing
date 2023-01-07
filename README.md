@@ -3,6 +3,7 @@
 ### Ferramentas
 
 - Kali Linux
+- NetHunter 
 - setoolkit
 
 ### Configurando o Phishing no Kali Linux
@@ -18,4 +19,3 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
