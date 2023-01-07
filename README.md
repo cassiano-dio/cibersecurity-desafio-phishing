@@ -3,6 +3,7 @@
 ### Ferramentas
 
 - Kali Linux
+- NetHunter 
 - setoolkit
 
 ### Configurando o Phishing no Kali Linux
