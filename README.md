@@ -18,4 +18,9 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./passwd.png "Example")
+![Alt text](./passwd1.png "User 01")
+![Alt text](./passwd2.png "User 02")
+![Alt text](./passwd3.png "User 03")
+![Alt text](./passwd4.png "User 04")
+![Alt text](./passwd5.png "User 05")
