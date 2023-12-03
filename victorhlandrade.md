@@ -27,7 +27,7 @@ Esta ferramenta já vem instalada no Kali Linux por padrão.
 
 <p float="left">
 
- <img src="https://github.com/victorhlandrade/prints-lab-phishing-set/blob/main/0-Ping.PNG" width="200" />
+ <img src="https://github.com/victorhlandrade/prints-lab-phishing-set/blob/main/0-Ping.PNG" width="400" />
 
 </p>
 
