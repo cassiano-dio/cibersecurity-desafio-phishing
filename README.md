@@ -3,6 +3,7 @@
 ### Ferramentas
 
 - Kali Linux
+- Qualquer navegador antigo , no exemplo usei o IE 8.Atualmente existem diversas melhorias com relação a segurança nos browsers, dentre ela o CORS
 - setoolkit
 
 ### Configurando o Phishing no Kali Linux
@@ -18,4 +19,6 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./clone-site-acessivel-por-outra-maquina.png "Optional title")
+![Alt text](./credenciais_recebidas.png "Optional title")
+![Alt text](./credencias-obtidas-pelo-midlleware.png "Optional title")
