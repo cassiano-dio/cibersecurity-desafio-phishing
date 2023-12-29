@@ -18,4 +18,13 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![image](https://github.com/LucianoGouveia14/cibersecurity-desafio-phishing/assets/152331911/d306fdd5-e5b4-47b6-ab5e-df2e26c5b3f1)
+
+![image](https://github.com/LucianoGouveia14/cibersecurity-desafio-phishing/assets/152331911/a0e50e92-cd4a-46a1-9743-4c325ea68073)
+
+![image](https://github.com/LucianoGouveia14/cibersecurity-desafio-phishing/assets/152331911/32adeaa8-9e86-4876-81e8-29972a59d631)
+
+![image](https://github.com/LucianoGouveia14/cibersecurity-desafio-phishing/assets/152331911/68423192-a07e-41f1-8413-f921941aebbf)
+
+
+
