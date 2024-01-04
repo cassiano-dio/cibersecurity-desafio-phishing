@@ -2,19 +2,19 @@
 
 ### Ferramentas
 
-- Kali Linux
-- setoolkit
+- Termux
+- zphisher 
 
-### Configurando o Phishing no Kali Linux
+### Configurando o Phishing no Termux
 
-- Acesso root: ``` sudo su ```
-- Iniciando o setoolkit: ``` setoolkit ```
-- Tipo de ataque: ``` Social-Engineering Attacks ```
-- Vetor de ataque: ``` Web Site Attack Vectors ```
-- Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- Clonando o repositorio: ``` git clone --depth=1 https://github.com/htr-tech/zphisher.git ```
+- Entrando na pasta zphisher: ``` cd zphisher ```
+- Inicializando o zphisher: ``` bash zphisher  ```
+- Opcao de ataque: ``` [1]Facebook ```
+- Método de ataque: ``` [1]Traditional Login Page ```
+- Selecionar o serviço de porta: ``` [1]Local Host ```
+- Caso queria um serviço de porta personalizada: ``` Eu escolhi "N" ```
+- Depois é só copiar e colar o host http:// e fazer os testes :D
 
 ### Resutados
 
