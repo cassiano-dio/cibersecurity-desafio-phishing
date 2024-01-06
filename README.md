@@ -18,4 +18,6 @@
 
 ### Resutados
 
+<<<<<<< HEAD
 ![Alt text](./passwd.png "Optional title")
+=======
