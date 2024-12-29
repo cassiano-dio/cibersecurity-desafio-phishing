@@ -12,10 +12,16 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
-- Obtendo o endereço da máquina: ``` ifconfig ```
+- Método de ataque: ``` Custom Import ```
+- Pagina copiada para o diretorio interno: ```www.facebook.com```
+- Remover script de segurança da pagina copiada: https://github.com/RLLKLLSS/cibersecurity-desafio-phishing/blob/master/README.md
+- De onde copiar: ```Copy the entire folder```
 - URL para clone: http://www.facebook.com
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+#### Página clonada
+![Alt text](./login.png "Optional title")
+
+#### Credenciais
+![Alt text](./resultado.png "Optional title")
